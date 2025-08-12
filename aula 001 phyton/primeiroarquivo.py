@@ -1,3 +1,22 @@
 print ("olá, mundo!!!")
 
-       
+print (type ("22"))
+print (type (22.3))
+print (type (0.22))
+print (type (True))
+print (type (False))
+print (type (str (22)))
+int ()
+float ()
+bool ()
+
+nome = input ("Informe seu nome:")
+print (type (nome))
+
+print (10+5)
+print (10-5)
+print (10*5)
+print (10%3)
+print (10/5)
+print (10//3)
+print (**2)
